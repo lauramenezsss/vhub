@@ -111,3 +111,8 @@ Hipótese: cartão de papel + catálogo de ~20–30 decisões típicas de PME co
 ### Questões em aberto
 - Próximo ramo: aprofundar **diagnóstico** (proposta) antes de B?
 - Quem responde o diagnóstico: só dono ou dono + líderes?
+
+## Sessão 4 — Correção de rota
+- Premissa errada registrada: assumi DP/contador/folha existentes [EXT não verificado]. Informação da usuária: vínculos frequentemente **PJ**, muitas vezes **sem contador**.
+- H-B2 reaberta: se não há base transacional em lugar nenhum, a regra "não duplicar o que existe fora" pode levar ao VHub ser a **única** base de pessoas (inclui contratos PJ, valores pagos, vigência).
+- Feedback sobre condução: insatisfação com o rumo; formato e foco a recalibrar com a usuária.
