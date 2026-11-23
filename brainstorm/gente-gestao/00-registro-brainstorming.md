@@ -77,3 +77,37 @@ Ideia de agente (a explorar): entrevista dono/líderes e propõe rascunho do map
 - Ordem da jornada: mover PLR para depois do F1 ou criar PLR simplificado?
 - Empresas típicas do Velô têm organograma/DP/RH?
 - O que o squad faz × o que o dono faz no setup de B.
+
+## Sessão 3 — 23/11/2026 · Revisão do ramo B, base de pessoas e IA no diagnóstico
+
+### Correções / decisões
+- **D4.** Velô ainda **não existe**: público = PMEs com maturidade nula; não há base empírica de "empresa típica" → perfis passam a ser hipóteses [EXT/INT] a validar.
+- **D5.** Sequência G1→G2→G3 é **restrição atual** (não mudar agora), mas fica registrada como questão a questionar.
+- **D6.** H-B1 aceita; H-B4 aceita; H-B3 aceita como conceito (formato em aberto).
+- Ramo B foi questionado: escolha mantida como hipótese, com alternativa explícita de começar pelo **diagnóstico** (lente transversal).
+
+### H-B2 revisada — "base de gestão de pessoas", não sistema de RH
+- Não construir: folha, ponto, férias/eSocial, benefícios (commodity, compliance pesado, já resolvido pelo contador/DP e por soluções de mercado) [EXT].
+- Construir: cadastro mestre de pessoas **orientado a decisão** (quem é, onde está, a quem responde, que papel ocupa, quanto custa, como performa, como evolui).
+- Regra de corte proposta: *entra no VHub o dado que alimenta uma decisão de gestão e não está disponível de forma utilizável em outro lugar.*
+
+### H-B3 — formatos possíveis do Mapa de Papéis
+| Opção | Esforço | Aderência a maturidade nula |
+|---|---|---|
+| Organograma + descritivo de cargo | Alto | Baixa |
+| RACI por processo | Alto | Baixa |
+| Cartão de papel (missão, 3–5 entregas, indicadores, decisões) | Baixo | Alta |
+| Catálogo padrão de decisões × nível de delegação | Baixo | Alta |
+Hipótese: cartão de papel + catálogo de ~20–30 decisões típicas de PME com nível de delegação.
+
+### Agentes no diagnóstico (rascunho)
+1. Entrevistador multi-respondente (dono + líderes) com triangulação de percepções.
+2. Leitor de evidências (documentos e planilhas reais → maturidade evidenciada × declarada).
+3. Mapeador de decisões / índice de dependência do dono.
+4. Analista de causa-raiz e priorização (capacitação × processo × estrutura × ferramenta).
+5. Recomendador de trilha (lacuna → aula/UniVisagio/ação/ferramenta).
+6. Monitor de maturidade observada (uso real: ritos, atas, metas atualizadas).
+
+### Questões em aberto
+- Próximo ramo: aprofundar **diagnóstico** (proposta) antes de B?
+- Quem responde o diagnóstico: só dono ou dono + líderes?
