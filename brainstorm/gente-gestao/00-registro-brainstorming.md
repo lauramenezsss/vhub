@@ -39,9 +39,41 @@ Pergunta central: *Por que a PME de 50–499 pessoas não converte a intenção 
 - **D. Capacidade das pessoas** — As pessoas certas estão nos lugares certos, desenvolvendo-se e incentivadas?
 - **Transversal (hipótese de causa-raiz):** centralização no dono.
 
-### Decisões validadas
-- (nenhuma ainda)
+### Decisões validadas (sessão 1→2)
+- **D1.** Issue tree v0 aceita como base (A Direção · B Estrutura e desdobramento · C Ritmo · D Pessoas · transversal: dono).
+- **D2.** VHub é **ferramenta do serviço Velô** (squad + advisor + aulas), não SaaS autônomo nesta fase.
+- **D3.** Público: empresas com **maturidade de gestão praticamente nula**.
+
+## Sessão 2 — 23/11/2026 · Framework Casagrande e ramo B
+
+### Referência nova: framework Gente & Gestão (Casagrande) [DOC: imagem]
+Sonho Grande e Propósito → **Gestão** (Modelo de Negócio e Estratégia → Organização, Orçamento & Metas → Rituais de Gestão) e **Gente** (Valores/Cultura → Comportamento/Competências → Recrutamento & Desenvolvimento). Os dois lados convergem em **Desempenho & Feedback → Remuneração, Carreira & Sucessão**.
+
+Mapeamento na issue tree: A = Sonho + Modelo/Estratégia · B = Organização, Orçamento & Metas · C = Rituais · D = Cultura, Competências, R&D, Desempenho, Remuneração.
+
+Leituras [INT]:
+- Força: desempenho como ponto de encontro de **o quê (metas)** e **como (comportamento)**. O G3 atual (matriz performance × cultura) já segue essa lógica.
+- Ausências no framework: indicadores/dados confiáveis; papéis e alçadas explícitos; centralização no dono.
+- O framework é sequencial em dependência, não em tempo: remuneração depende de desempenho, que depende de metas e competências.
+
+### Implicação de "maturidade nula" [INT]
+- O G3 completo (360, 6 classes, calibração, 9-box, PLR) é prematuro para o 1º ciclo. Hipótese: **níveis de maturidade por capacidade** (básico → estruturado → gerenciado), cada solução entregando o nível 1 primeiro.
+- PLR antes da DRE (F1) continua inconsistente.
+
+### Ramo B — sub-árvore v0
+- **B1. Quem decide o quê?** organograma real × formal; papéis por função; alçadas; dependência do dono.
+- **B2. A meta chega à pessoa?** metas da empresa → área → pessoa; dono de cada meta; vínculo com orçamento.
+- **B3. A estrutura suporta o plano?** dimensionamento, liderança intermediária, gaps de função.
+
+Hipóteses:
+- **H-B1** Em maturidade nula, o gargalo de B é *papéis/alçadas*, não metas: metas sem dono claro voltam para o dono.
+- **H-B2** A "base de colaboradores" necessária é mínima: pessoa, área, gestor, função/papel, admissão, (salário para PLR). Não é sistema de RH.
+- **H-B3** Um **Mapa de Papéis e Alçadas** é o artefato-dobradiça que alimenta OKRs (dono da meta), ritos (quem participa) e avaliação (régua).
+- **H-B4** Orçamento em B deve vir do F, não do G: em G basta "metas + recursos críticos".
+
+Ideia de agente (a explorar): entrevista dono/líderes e propõe rascunho do mapa de papéis e alçadas, apontando sobreposições e "decisões sem dono".
 
 ### Questões em aberto
-- VHub: apoio ao Velô ou SaaS autônomo (ou ambos, em fases)?
-- Validar issue tree v0 e ramo inicial (recomendado: B).
+- Ordem da jornada: mover PLR para depois do F1 ou criar PLR simplificado?
+- Empresas típicas do Velô têm organograma/DP/RH?
+- O que o squad faz × o que o dono faz no setup de B.
